@@ -12,6 +12,7 @@ File Encoding         : 65001
 
 Date: 2021-12-12 23:29:17
 */
+
 CREATE database jsh_erp;
 use jsh_erp;
 
