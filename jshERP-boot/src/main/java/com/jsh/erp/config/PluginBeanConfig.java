@@ -20,7 +20,5 @@ public class PluginBeanConfig {
         PluginApplication pluginApplication = new AutoPluginApplication();
         pluginApplication.addExtension(new SpringBootMybatisExtension());
         return pluginApplication;
-
-
     }
 }
